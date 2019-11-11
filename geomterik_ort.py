@@ -30,7 +30,7 @@ while(True):
             print("Bir sayi eklemelisin!")
             break
         
-            sayilar.append(sayi1)
+        sayilar.append(sayi1)
             
     kontrol4 = input("Sayi eklemeye devam etmek istiyor musunuz? (E/H)\n")
     if(kontrol4 == "E" or kontrol4 == "e"):
