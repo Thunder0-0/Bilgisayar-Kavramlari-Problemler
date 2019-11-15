@@ -1,9 +1,7 @@
 # -*- coding: utf-8 -*-
 '''
-Bir yığın(stack) yapısı kullanarak verilen bir dizinin tersini alan kod yazınız.
-____
-listeyi al
-pop ederek başka bir listeye ekle 
+___
+
 
 ____
 
