@@ -10,8 +10,6 @@ take some numbers randomly and list them lower to higher
 usersList = []
 controlPoint = True
 controlPoint1 = "Y" # for list
-list2 = []
-
 
 while(controlPoint == True):
     try:
