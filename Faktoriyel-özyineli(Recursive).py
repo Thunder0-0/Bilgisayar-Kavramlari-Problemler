@@ -9,7 +9,7 @@ Fak(0) = 1
 '''
 
 def Fak(x):
-    if(x == 1 or 0):
+    if(x == 1):
         return 1
         
     return x * Fak(x-1)
