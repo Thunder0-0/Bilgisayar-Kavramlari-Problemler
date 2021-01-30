@@ -17,5 +17,5 @@ def findp(dot_all):
 try:
     print(findp(int(input("dot_all: "))))
 
-except(ValueError):
+except(ValueError,ZeroDivisonError):
     print('It should take int')
